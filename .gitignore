@@ -1,0 +1,19 @@
+# Build
+build/
+dist/
+target/
+*.class
+*.jar
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
